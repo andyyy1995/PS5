@@ -8,7 +8,7 @@ Authors: Hyun Min Kim  and Harvey Yang
 
 
 
-*Overview
+**Overview:**
 This repository contains a graph (GRAPHML file) and a corresponding iPYNB script that can be run on Jupyter Notebook to produce a visual  representation of the graph.
 
 
